@@ -11,12 +11,12 @@ Lebanese<br>
 rayan.ali.8205@gmail.com <br>
 
 </div>
-    <div style="flex: 1;">
-
-![My Profile Image](https://github.com/rayan-ali0/Git-Trial/blob/master/IMG.png) 
-
-
-</div>
+ 
+   <div style="flex: 1; display: flex; float:right;">
+        <span style="max-width: 120px; max-height: 120px;">
+            <img src="https://github.com/rayan-ali0/Git-Trial/blob/master/IMG.png?raw=true" alt="My Profile Image" width="200" height="200">
+        </span>
+    </div>
 </div>
 
 ## Skills 
