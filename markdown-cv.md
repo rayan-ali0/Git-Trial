@@ -1,11 +1,23 @@
 # Rayan ALi
 
 ## Personal Information
+
+<div style="display: flex;">
+    <div style="flex: 1;">
+
 +96176147030<br>
 Lebanese<br>
 1-june-1998<br>
 rayan.ali.8205@gmail.com <br>
 
+</div>
+    <div style="flex: 1;">
+
+![My Profile Image](https://github.com/rayan-ali0/Git-Trial/blob/master/IMG.png) 
+
+
+</div>
+</div>
 
 ## Skills 
 <div style="display: flex;">
