@@ -40,10 +40,6 @@ rayan.ali.8205@gmail.com <br>
 - **Teacher , Private classes**  <span style="float:right;">**since 2016** </span>
  <br>
 
-## Education
-- **Bachelor of Management Information System , Lebanese University** <span style="float:right;"> **2022** </span><br>
-- **Lebanese baccalaureate GS , Kobbeh High School** <span style="float:right;"> **2016** </span><br>
-
 
 ## Training 
 
@@ -51,8 +47,16 @@ rayan.ali.8205@gmail.com <br>
   - Attending more than 100 hours of technical sessions where we learned React
   - Participated in career development coaching sessions
 - **Internet Of things workshop , Engineers Syndicate-Tripoli** <span style="float:right;"> **2019** </span>
+## Education
+- **Bachelor of Management Information System , Lebanese University** <span style="float:right;"> **2022** </span><br>
+- **Lebanese baccalaureate GS , Kobbeh High School** <span style="float:right;"> **2016** </span><br>
+
 
 ## Volunteering
 - **Cross Arts cultural association** <span style="float:right;"> **2022** </span><br>
 - **Agora Community Center** <span style="float:right;"> **2022** </span><br>
 
+## Languages
+- **Arabic** : Native <br>
+- **English** : Intermediate <br>
+- **French** : Intermediate <br>
